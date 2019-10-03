@@ -1,3 +1,3 @@
 # About Josue 
 
-* **NAME**: Josue Vilmenay
+* **Name**: Josue Vilmenay
