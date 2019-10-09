@@ -5,7 +5,7 @@
 ![Alt Text](https://patch.com/img/cdn20/users/1625498/20170320/011303/styles/raw/public/article_images/img_20170311_130734-1489986502-2221.jpg)
 
 # Summary
-* Hi world, I'm Josue and I'm starting to get into computer science. I loved playing with computers since I was a kid. I remeber when I used a computer for the first time. I was in 2nd grade and I used to play flash games on an old windows xp, which was a great operating system during that time.
+* Hi world, I'm Josue and I'm starting to get into computer science. I loved playing with computers since I was a kid. I remeber when I used a computer for the first time. I was in 2nd grade and I used to play flash games on an old windows xp, which was a great operating system during that time. I come from a haitian background and moved to the United States when I was 3 years old.
 
 # Skills
 * I can edit videos and films using Sony Vegas Pro
@@ -25,3 +25,7 @@
 * My mom works as a nurse and my dad works as a teacher
 * I have 2 grandma's 
 * **TONS** of cousins
+
+# Favorite websites
+* www.youtube.com
+* www.netflix.com
