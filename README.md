@@ -24,6 +24,4 @@
 * I have 2 siblings, a younger brother and an older sister
 * My mom works as a nurse and my dad works as a teacher
 * I have 2 grandma's 
-* TONS of cousins
-
-# 
+* **TONS** of cousins
