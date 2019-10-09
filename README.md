@@ -29,3 +29,4 @@
 # Favorite websites
 * www.youtube.com
 * www.netflix.com
+* www.amazon.com
